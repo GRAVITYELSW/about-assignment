@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667207532 source:d:\application\codeblocks\cbcode\noj_03\61\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

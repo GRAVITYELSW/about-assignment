@@ -1,0 +1,5 @@
+0001 #include <stdio.h>
+0002 void main()
+0003 {
+0004 	printf("This is a C program.\n");
+0005 }
