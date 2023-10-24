@@ -1,0 +1,6 @@
+power.t.test(n=20, sd=7, delta = 5, type="one.sample")
+power.t.test(power=0.9, sd=7, delta = 4, type="one.sample")
+power.t.test(power=0.8, delta=5, sd=7)
+power.t.test(power=0.8, delta=2, sd=7,type="paired")
+power.prop.test(power=0.9, p1=0.1, p2=0.25)
+power.anova.test(groups=4, between.var = 4, within.var = 40, power=0.9)
